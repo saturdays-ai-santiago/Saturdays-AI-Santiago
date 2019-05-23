@@ -1,6 +1,6 @@
 # Saturdays AI Santiago
 
-## Qué es AI Saturday
+## ¿Qué es AI Saturday?
 
 AI Saturdays (conocido cariñosamente como AI6) es un movimiento global y impulsado por la comunidad en todo el mundo para que la educación en Inteligencia Artificial con la calidad y el rigor de las mejores universidades del mundo sea de acceso gratuito para todos.
 
