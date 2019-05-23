@@ -12,4 +12,4 @@ En este repositorio se encontrarán los recursos necesarios para seguir Ai Satur
 
 ## Código de conducta
 
-Puedes leer el código de conducta aquí
+Puedes leer el código de conducta [aquí](https://github.com/saturdays-ai-santiago/Saturdays-AI-Santiago/blob/master/cod.md)
