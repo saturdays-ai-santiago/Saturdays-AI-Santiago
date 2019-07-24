@@ -16,6 +16,7 @@ Resumen del tema
 El objetivo del análisis exploratorio es resumir las características principales de un conjunto de datos, con la creencia de que puede conducir a nuevas hipótesis que informen la selección y experimentación del algoritmo. El análisis exploratorio ocurre antes de que comience el modelado formal, y es extremadamente importante para ayudar a informar o agudizar su hipótesis.
 
 =====
+
 Parte 2: Feature Engineering
 
 
