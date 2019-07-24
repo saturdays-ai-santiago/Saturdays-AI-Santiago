@@ -45,7 +45,7 @@ El conjunto de datos contiene muchas características para comenzar, entonces, �
 
 ¿Cómo sabemos qué características serán útiles?
 
-- Esto se reduce a la experiencia.
+- Este conocimiento se gana con la experiencia.
 
 Afortunadamente, existen puntos de partida comunes para muchos conjuntos de datos que revisaremos en este módulo.
 
