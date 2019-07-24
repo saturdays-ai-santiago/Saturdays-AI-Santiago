@@ -1,7 +1,7 @@
 Módulo 1: 
 =====
 
-Parte 1: Introducción al analisis exploratorio de datos
+**Parte 1:** Introducción al analisis exploratorio de datos
 
 ¡Bienvenido al primer módulo! En este módulo, comenzaremos a explorar nuestro conjunto de datos.
 
@@ -15,12 +15,12 @@ Resumen del tema
 
 El objetivo del análisis exploratorio es resumir las características principales de un conjunto de datos, con la creencia de que puede conducir a nuevas hipótesis que informen la selección y experimentación del algoritmo. El análisis exploratorio ocurre antes de que comience el modelado formal, y es extremadamente importante para ayudar a informar o agudizar su hipótesis.
 
-=====
+****************************************************************
 
-Parte 2: Feature Engineering
+**Parte 2:** Ingeniería de Características
 
 
-Welcome to Module 2 of the introductory course to machine learning, where we will create new variables out of the raw data in a process called feature engineering!
+Aquí crearemos nuevas variables a partir de los datos en bruto en un proceso llamado ingeniería de características.
 
 Metas
 ------
