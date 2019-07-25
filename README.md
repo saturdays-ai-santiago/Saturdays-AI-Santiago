@@ -12,7 +12,7 @@ Un aspecto destacable del programa en nuestro país, es la diversidad. Ello, por
 
 En nuestra versión 2019, Saturdays.ai Chile ha contado con el valioso apoyo de Microsoft, Kudaw, Grupo Incubo, Fablab de la U. de cHile, Fablab de la UTFSM, Metrocapital, EY, Albiorix, Zenta Laboratoria, MITI, DF Formación Ejecutiva, TrendTic, Hub RadioTV, Red Latinoamericana de Transformación Digital, Cerebelo y CG Studio. Todas estas instituciones han aportado a través de instalaciones, profesionales, servicios y recursos para hacer realidad el programa. Asimismo, logramos el patrocinio del Ministerio de Economía, el Ministerio de la Mujer y la Equidad de Género y de la Subsecretaría de Telecomunicaciones.
 
-Tras el exitoso proceso de selección y estando ya en curso los talleres, el equipo organizador de Saturdays.ai está trabjando fuertemente en la organización del Demoday, para lo cual se está buscando el apoyo de empresas que deseen hacerse parte de una jornada que esperamos se constituya en un espacio de networking y de generación de iniciativas de alto impacto. Asimismo, ya se está planificando la segunda versión, la que se espera tenga mayor alcance e involucre más actores relevantes.
+Tras el exitoso proceso de selección y estando ya en curso los talleres, el equipo organizador de Saturdays.ai está trabajando fuertemente en la organización del Demoday, para lo cual se está buscando el apoyo de empresas que deseen hacerse parte de una jornada que esperamos se constituya en un espacio de networking y de generación de iniciativas de alto impacto. Asimismo, ya se está planificando la segunda versión, la que se espera tenga mayor alcance e involucre a más actores relevantes.
 
 ## Recursos
 
