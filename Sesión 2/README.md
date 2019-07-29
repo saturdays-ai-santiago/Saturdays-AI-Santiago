@@ -1,4 +1,4 @@
-# Module 2: Linear Regression
+# Módulo 3: Regresión Lineal
 ================================================================================
 
 Welcome to module 2 of the introductory course to data for good where we will be exploring linear regression - the first machine learning algorithm of this course!
