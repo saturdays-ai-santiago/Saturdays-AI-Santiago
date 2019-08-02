@@ -1,7 +1,7 @@
 # Módulo 3: Regresión Lineal
 ================================================================================
 
-Bienvenidos al módulo 23 del curso introductorio a ML, donde exploraremos la regresión lineal: ¡el primer algoritmo de machine learning de este curso!
+Bienvenidos al módulo 3 del curso introductorio a ML, donde exploraremos la regresión lineal: ¡el primer algoritmo de machine learning de este curso!
 
 Metas
 ----
