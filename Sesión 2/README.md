@@ -1,49 +1,50 @@
 # Módulo 3: Regresión Lineal
 ================================================================================
 
-Welcome to module 2 of the introductory course to data for good where we will be exploring linear regression - the first machine learning algorithm of this course!
+Bienvenidos al módulo 23 del curso introductorio a ML, donde exploraremos la regresión lineal: ¡el primer algoritmo de machine learning de este curso!
 
-Goals
+Metas
 ----
-By end of this module one should feel comfortable with the fundamentals of linear regression.  Specific topics included are:
-1. How to split the data between training and test data
-2. Using training data to train a linear regression model
-3. Analyzing the results of the model
-4. Checking the assumptions of linear regression
-5. Building a multivariate regressor
+Al final de este módulo, deberíamos sentirsnos cómodos con los fundamentos de la regresión lineal. Los temas específicos incluidos son:
+1. Cómo dividir los datos entre datos de entrenamiento y datos de prueba
+2. Uso de los datos de entrenamiento para entrenar un modelo de regresión lineal
+3. Análisis de los resultados del modelo.
+4. Comprobación de los supuestos de regresión lineal
+5. Construcción de un regresor multivariante
 
-## Topic overview
-Linear Regression is a parametric model which predicts a continuous outcome feature (**Y**) from one or more explanatory features (**X**).  
+## Resumen del tema
+La regresión lineal es un modelo paramétrico que predice una característica de resultado continuo (** Y **) a partir de una o más características explicativas (** X **). 
 
 **Y** = beta_0 + beta_1 * **X**
 
-beta_0 is called the intercept term, and represents the expected mean value of Y when all explanatory features equal 0.  
-beta_1 is called a beta coefficient, and represents the expected change in the value of Y that results from a one unit change in X.
+beta_0 se denomina término de intercepción y representa el valor medio esperado de Y cuando todas las características explicativas son iguales a 0. 
+beta_1 se llama coeficiente beta y representa el cambio esperado en el valor de Y que resulta de un cambio de una unidad en X.
 
-This is module fits a straight line to your data, where the value of the outcome feature can be calculated as a linear combination of the explanatory features. Sounds relatively simple? Afraid not, there are many nuances and conditions that need to be understood before using linear regression! We are going to delve into these assumptions and conditions and then demonstrate how to use this algorithm on the kiva dataset.
+Este es un módulo que se ajusta en línea recta a sus datos, donde el valor de la característica de resultado se puede calcular como una combinación lineal de las características explicativas. ¿Suena relativamente simple? ¡No temas, hay muchos matices y condiciones que deben entenderse antes de usar la regresión lineal! Vamos a profundizar en estos supuestos y condiciones y luego demostraremos cómo usar este algoritmo en un conjunto de datos.
+
 
 ![Image](https://imgs.xkcd.com/comics/linear_regression.png)
 
 
-## Resources
+## Recursos
 - [Comprehensive Guide to Regression](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/)
 - [Understanding key regression statistics](http://connor-johnson.com/2014/02/18/linear-regression-with-python/)
 
-## Advanced topics
-Linear regression is one member of a family of linear parametric models. Some additional advanced topics we recommend looking up are...
-### Logistic regression
-Logistic regression is very similar to linear regression but has a categorical outcome instead. So rather than modeling a continuous dependent variable, it models a binary classification - yes or no, true or false, 1 or 0. This is still a linear model as it assumes a linear relationship between the independent variables and the link function.  
+## Temas avanzados
+La regresión lineal es un miembro de una familia de modelos paramétricos lineales. Algunos temas avanzados adicionales que recomendamos buscar son ...
+### Regresión logística
+La regresión logística es muy similar a la regresión lineal, pero tiene un resultado categórico. Entonces, en lugar de modelar una variable dependiente continua, modela una clasificación binaria: sí o no, verdadero o falso, 1 o 0. Este sigue siendo un modelo lineal, ya que supone una relación lineal entre las variables independientes y la función de enlace.  
 
-To learn more about Logistic Regression, try to following resources:
+Para obtener más información sobre la regresión logística, prueba con los siguientes recursos:
 - [Beginners guide to Logistic Regression](https://www.analyticsvidhya.com/blog/2015/11/beginners-guide-on-logistic-regression-in-r/): A good overview of the theory and mathematics behind the algorithm
 - [Logistic Regression in Python](http://blog.yhat.com/posts/logistic-regression-python-rodeo.html): A thorough tutorial on a publicly available dataset in Python
 
-### Ridge and Lasso regression
-Both linear and logistic regression have a tendancy to overfit when there are a large number of features. Therefore it is important that we choose the features which have the most predictive power but how do we choose these features? We can use our EDA to a certain extent but that only goes so far.
+### Regresión Ridge y Lasso
+Tanto la regresión lineal como la logística tienen una tendencia a sobreajustarse cuando hay una gran cantidad de características. Por lo tanto, es importante que elijamos las características que tienen el mayor poder predictivo, pero ¿cómo elegimos estas características? Podemos usar nuestro EDA, pero eso solo llega hasta cierto punto.
 
-This is where ridge and lasso regularization techniques come into play! Both of these techniques can be used to identify which features explain the most variance and should therefore be kept in the model.
+¡Aquí es donde entran en juego las técnicas de regularización ridge y lasso! Ambas técnicas pueden usarse para identificar qué características explican la mayor variación y, por lo tanto, deben mantenerse en el modelo.
 
-To learn more about ridge and lasso regression and general regulaization techniques, we recommend the following resources:
+Para obtener más información sobre la regresión ridge y lasso y las técnicas de regularización general, recomendamos los siguientes recursos:
 - [Complete tutorial on ridge and lasso regression in python](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/): A broad tutorial explaining why we use regularization techniques, touching on the mathematics behind the algorithms and giving a few examples in python.
 - [An Introduction to Statistical Learning, Chapter 6.2](http://www-bcf.usc.edu/%7Egareth/ISL/ISLR%20Sixth%20Printing.pdf): A comprehensive explanation of both Lasso and Ridge and their application in the context of statistical learning.
 
