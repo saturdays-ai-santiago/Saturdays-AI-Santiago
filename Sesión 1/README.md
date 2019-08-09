@@ -1,7 +1,7 @@
 Sesión 1: 
 =====
 
-**Módulo 1:** Introducción al analisis exploratorio de datos
+**Módulo 1.1:** Introducción al analisis exploratorio de datos
 ----
 
 ¡Bienvenido al primer módulo! En este módulo, comenzaremos a explorar nuestro conjunto de datos.
@@ -18,7 +18,7 @@ El objetivo del análisis exploratorio es resumir las características principal
 
 ****************************************************************
 
-**Módulo 2:** Ingeniería de Características
+**Módulo 1.2:** Ingeniería de Características
 ----
 
 Aquí crearemos nuevas variables a partir de los datos en bruto en un proceso llamado ingeniería de características.
